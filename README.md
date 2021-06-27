@@ -8,7 +8,7 @@ PyFrench is not intended to be used as a normal programming language. It is crea
 
 ## Progress
 
-The creation doesn't start yet. I'm still thinking on how to do it !
+The creation hasn't start yet. I'm still thinking on how to do it !
 
 ## Technologies
 
