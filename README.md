@@ -4,7 +4,7 @@ PyFrench is the project to create a programming language based on the Python's s
 
 ## But Why ?
 
-PyFrench is not intended to be used as a normal programming language. It is created for educational purpose. Indeed, the goal of PyFrench (PyF) is to be used by schools, students, etc... that have difficulties with French. PyF is a way to learn the syntax of a common programming language, but using French !
+PyFrench is not intended to be used as a normal programming language. It is created for educational purpose. Indeed, the goal of PyFrench (PyF) is to be used by schools, students, etc... that have difficulties with English. PyF is a way to learn the syntax of a common programming language, but using French !
 
 ## Progress
 
